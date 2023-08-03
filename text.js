@@ -75,5 +75,29 @@
 // })
 
 
+// const a=[5,6,7,8,9,10]
+// const output=a.map((x)=>x*2)
+// console.log(output)
+
+//........filter......//
+//odd
+// const arr = [12,22,33,55,44,]
+
+// const output=arr.filter((ele)=>ele%2)
+//     console.log(output)
+
+//even
+
+// const a =[22,33,44,55,66,77]
+
+// const output = a.filter((x)=>x%2==0)
+// console.log(output)
+
+//filter the lesser and greater  values
+//filter lesser values
+// const a = [1,2,3,4,5,6,7]
+
+// const output=a.filter((ele)=>ele>3)
+// console.log(output)
 
 
